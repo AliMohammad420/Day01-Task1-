@@ -4,6 +4,6 @@ Submission installation:
 ![md](https://user-images.githubusercontent.com/108058306/175814607-73138929-6e8e-4680-9fd8-dc3cc1ca6052.png)
 ![nano](https://user-images.githubusercontent.com/108058306/175814610-638444dd-7695-488e-8c6e-cd8c4efa36ca.png)
 Submission Accounts:
-Slack Username: Ali Mohammad
+Slack Username: Ali Mohammad<br>
 Discord Username: Ali_Rawajbeh
 Google ClassRoom: Ali Mohammad
